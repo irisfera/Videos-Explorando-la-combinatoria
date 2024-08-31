@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 2/Video 2/media/videos/Video 2/1080p60/partial_movie_files/Video2Escena1/450974505_1032323696_223132457.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 2/Video 2/media/videos/Video 2/1080p60/partial_movie_files/Video2Escena1/34786186_957343386_411245910.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 2/Video 2/media/videos/Video 2/1080p60/partial_movie_files/Video2Escena1/34786186_3772882669_4155620519.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 2/Video 2/media/videos/Video 2/1080p60/partial_movie_files/Video2Escena1/34786186_957343386_3547520947.mp4'

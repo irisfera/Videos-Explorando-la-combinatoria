@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15.832543mm"
+   height="11.261824mm"
+   viewBox="0 0 15.832543 11.261824"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="resAsiento2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4"
+     inkscape:cx="-36"
+     inkscape:cy="42.875"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4317" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(-1,0,0,1,143.02451,-163.84269)">
+    <g
+       id="g4317"
+       transform="matrix(-0.97878183,1.0699537,0.92876797,0.95217009,136.85169,-90.123884)"
+       style="display:inline">
+      <path
+         id="path4270-4"
+         fill="#501616"
+         d="m 127.73143,124.30242 c -3.28278,0.75861 -9.57395,10.6558 -3.29377,12.68468 l 8.2583,-7.54608 z"
+         style="display:inline;fill:#eee96f;fill-opacity:1;stroke-width:1.11222"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>
