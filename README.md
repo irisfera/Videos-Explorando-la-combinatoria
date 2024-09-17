@@ -4,6 +4,18 @@ Este repositorio contiene el código fuente utilizado para generar videos educat
 
 Durante la creación del código, se aprovecharon diversas funcionalidades de Manim de manera variada. Estos distintos casos de uso de Manim son los que se busca documentar en este código.  El desarrollo sigue las convenciones de PEP 8 y los principios del libro Clean Code, lo que facilita que el código se pueda entender, mantener y reutilizar.
 
+## Proposito
+El propósito de este repositorio es proporcionar código bien documentado que utiliza la librería Manim para crear animaciones educativas sobre temas de combinatoria. A través de las diferentes escenas, se muestran casos de uso de las diversas funciones y herramientas que ofrece Manim, con el objetivo de inspirar a otros a explorar sus capacidades y aplicarlas en distintas áreas, más allá de las matemáticas.
+
+Este repositorio no tiene como fin enseñar programación en Python ni profundizar en la funcionalidad específica de Manim. En cambio, busca ofrecer ejemplos prácticos de cómo se puede utilizar la librería para crear animaciones educativas, esperando motivar a otros a experimentarla en sus propios proyectos.
+
+## Recomendaciones antes de entrar al código
+1. **Visualiza el video correspondiente**: Antes de intentar comprender el código, te recomendamos ver el video asociado a cada escena. Si no tienes las herramientas necesarias para ejecutar el código, puedes acceder a los videos ya generados, ubicados en las carpetas creadas por Manim y Jupyter (descritas en la siguiente sección). Esto te ayudará a relacionar mejor el código con la animación visual.
+
+2. **Consulta la documentación de Manim**: Cuando encuentres una función predeterminada de Manim por primera vez, realiza una búsqueda en la documentación oficial para entender su funcionamiento y cómo se utiliza en el contexto del proyecto.
+
+3. **Experimenta con el código**: Haz modificaciones en el código y observa los efectos que tienen en las animaciones. Esta práctica es excelente para aprender y comprender cómo pequeños cambios pueden alterar la visualización de las escenas.
+   
 ## Estructura del Proyecto
 
 Este proyecto incluye cuatro archivos principales, cada uno correspondiente al código que genera las escenas para los videos educativos creados sobre combinatoria. A continuación, se listan los videos y sus enlaces a YouTube:
