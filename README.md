@@ -48,7 +48,7 @@ La estructura de los archivos es consistente para cada video:
 ## Requisitos previos
 * Python 3.8+
 * Manim para Jupyter Notebooks
-* Latex dependencies for Manim
+* Dependencias de Latex para Manim
 * Un visor de videos como VLC o cualquier otro reproductor compatible con ```.mp4```
   
 ## Instalacion de Manim para Jupyter con Conda
