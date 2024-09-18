@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/450974505_4280966474_223132457.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_3213241947_1659891002.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_418381466_888112186.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_1820133769_3309888533.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_3213241947_1079783272.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_1823060632_2907354512.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_3300022125_3309183979.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_957343386_818213938.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_3229627790_3104344056.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video4-TeoremaDelBinomio/media/videos/Video4-TeoremaDelBinomio/1080p60/partial_movie_files/Video4Escena1Introduccion/34786186_4070753449_2781985868.mp4'

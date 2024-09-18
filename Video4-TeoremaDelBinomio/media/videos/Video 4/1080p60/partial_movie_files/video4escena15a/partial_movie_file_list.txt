@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 4/Video 4/media/videos/Video 4/1080p60/partial_movie_files/video4escena15a/450974505_2639816665_2065343915.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 4/Video 4/media/videos/Video 4/1080p60/partial_movie_files/video4escena15a/34786186_3031606783_4229236061.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 4/Video 4/media/videos/Video 4/1080p60/partial_movie_files/video4escena15a/34786186_957343386_3223553560.mp4'
