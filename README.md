@@ -8,13 +8,6 @@ Durante la creación del código, se aprovecharon diversas funcionalidades de Ma
 El propósito de este repositorio es proporcionar código bien documentado que utiliza la librería Manim para crear animaciones educativas sobre temas de combinatoria. A través de las diferentes escenas, se muestran casos de uso de las diversas funciones y herramientas que ofrece Manim, con el objetivo de inspirar a otros a explorar sus capacidades y aplicarlas en distintas áreas, más allá de las matemáticas.
 
 Este repositorio no tiene como fin enseñar programación en Python ni profundizar en la funcionalidad específica de Manim. En cambio, busca ofrecer ejemplos prácticos de cómo se puede utilizar la librería para crear animaciones educativas, esperando motivar a otros a experimentarla en sus propios proyectos.
-
-## Recomendaciones antes de entrar al código
-1. **Visualiza el video correspondiente**: Antes de intentar comprender el código, te recomendamos ver el video asociado a cada escena. Si no tienes las herramientas necesarias para ejecutar el código, puedes acceder a los videos ya generados, ubicados en las carpetas creadas por Manim y Jupyter (descritas en la siguiente sección). Esto te ayudará a relacionar mejor el código con la animación visual.
-
-2. **Consulta la documentación de Manim**: Cuando encuentres una función predeterminada de Manim por primera vez, realiza una búsqueda en la documentación oficial para entender su funcionamiento y cómo se utiliza en el contexto del proyecto.
-
-3. **Experimenta con el código**: Haz modificaciones en el código y observa los efectos que tienen en las animaciones. Esta práctica es excelente para aprender y comprender cómo pequeños cambios pueden alterar la visualización de las escenas.
    
 ## Estructura del Proyecto
 
@@ -27,7 +20,7 @@ Este proyecto incluye cuatro archivos principales, cada uno correspondiente al c
 La estructura de los archivos es consistente para cada video:
 ```
 <VideoX-titulo>
-├── <nombre-archivo>.ipynb
+├── <nombre-video>.ipynb
 ├── imagenes
 ├── utiles
 └── media
@@ -36,7 +29,7 @@ La estructura de los archivos es consistente para cada video:
       ├── Tex
       └── videos
 ```
-* **<nombre-archivo>.ipynb"**: contiene el código fuente de las escenas utilizadas en el video, detallando cada parte de la animación.
+* **```<nombre-video>.ipynb```**: contiene el código principal de las escenas utilizadas en el video, detallando cada parte de la animación.
 * **imagenes**: carpeta que almacena todas las imágenes en formato SVG utilizadas en las animaciones.
 * **utiles**: contiene funciones auxiliares que facilitan el desarrollo de las escenas y la animación..
 * **media**: este directorio es automáticamente creado y contiene imágenes, videos y otros archivos generados por Manim y Jupyter.
@@ -44,6 +37,18 @@ La estructura de los archivos es consistente para cada video:
   * **jupyter**: contiene el caché de los videos generados desde el Jupyter Notebook.
   * **Tex**: archivos necesarios para manejar objetos LaTeX dentro de las animaciones.
   * **videos**: carpeta donde se almacenan los videos finales generados con Manim.
+
+### Jupyter Notebook
+Cada archivo ```<nombre-video>.ipynb``` es un Jupyter Notebook que contiene todas las escenas que conforman un video, organizadas en distintas celdas. La primera celda incluye las importaciones y definiciones necesarias para ejecutar el resto del código. A continuación, cada celda contiene una clase de Python que representa una escena, con su método ```construct``` encargado de generar la animación. Al ejecutar cada una de estas celdas, se genera el video de la escena correspondiente, que se exporta automáticamente en formato MP4. 
+
+El código esta escrito en Jupyter para poder tener las escena de manera más modular y acceder al video resultante de manera rápida. Incluso sin tener Manim y las dependencias necesarias al descargar el repositorio se descargan los videos correspondientes a cada escena dentro del Notebook. Por lo que, se puede relacionar fácilmente cada video con su código correspondiente.
+
+## Recomendaciones antes de entrar al código
+1. **Visualiza el video correspondiente**: Antes de intentar comprender el código, te recomendamos ver el video asociado a cada escena. Si no tienes las herramientas necesarias para ejecutar el código, puedes acceder a los videos ya generados, ubicados en las carpetas creadas por Manim y Jupyter (descritas en la siguiente sección). Esto te ayudará a relacionar mejor el código con la animación visual.
+
+2. **Consulta la documentación de Manim**: Cuando encuentres una función predeterminada de Manim por primera vez, realiza una búsqueda en la documentación oficial para entender su funcionamiento y cómo se utiliza en el contexto del proyecto.
+
+3. **Experimenta con el código**: Haz modificaciones en el código y observa los efectos que tienen en las animaciones. Esta práctica es excelente para aprender y comprender cómo pequeños cambios pueden alterar la visualización de las escenas.
 
 ## Requisitos previos
 * Python 3.8+
