@@ -122,5 +122,4 @@ tlmgr install preview
 ```
 !pip install manim
 ```
-
-    ![Instalar e importar manim](Imagenes/pipManim.png)
+![Instalar e importar manim](Imagenes/pipManim.png)
