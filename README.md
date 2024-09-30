@@ -57,3 +57,22 @@ El código esta escrito en Jupyter para poder tener las escena de manera más mo
 * Un visor de videos como VLC o cualquier otro reproductor compatible con ```.mp4```
   
 ## Instalacion de Manim para Jupyter con Conda
+
+### Paso 1: Instalar Anaconda 3
+Para comenzar, debes instalar Anaconda 3, que es una distribución de Python. Puedes descargarlo desde el sitio web oficial de Anaconda: [Anaconda Install](https://docs.anaconda.com/free/anaconda/install/index.html).
+
+### Paso 2: Instalar Jupyter Notebook utilizando Anaconda
+Abre Anaconda 3 y haz clic en el botón de "Instalar" que se encuentra en el bloque de Jupyter Notebook.
+
+![UI de Anaconda 3 con Jupyter Notebook](Imagenes/JupyterAnaconda.png)
+
+### Paso 3: Instalar Manim
+
+#### Instalar Chocolatey
+Abre una terminal y ejecuta el siguiente comando para instalar Chocolatey:
+
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = 
+[System.Net.ServicePointManager]::SecurityProtocol -bor 3072; 
+iex ((New-Object System.Net.WebClient).DownloadString
+('https://chocolatey.org/install.ps1'))
