@@ -64,7 +64,7 @@ Para comenzar, debes instalar Anaconda 3, que es una distribución de Python. Pu
 ### Paso 2: Instalar Jupyter Notebook utilizando Anaconda
 Abre Anaconda 3 y haz clic en el botón de "Instalar" que se encuentra en el bloque de Jupyter Notebook.
 
-![UI de Anaconda 3 con Jupyter Notebook](Imagenes/JupyterAnaconda.png)
+![UI de Anaconda 3 con Jupyter Notebook](imagenes/JupyterAnaconda.png)
 
 ### Paso 3: Instalar Manim
 
