@@ -76,6 +76,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; 
 iex ((New-Object System.Net.WebClient).DownloadString
 ('https://chocolatey.org/install.ps1'))
+```
 
 #### Instalar dependencias
 Ejecuta los siguientes comandos en la terminal para instalar las dependencias necesarias:
