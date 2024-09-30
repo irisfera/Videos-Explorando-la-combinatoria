@@ -83,7 +83,7 @@ Ejecuta los siguientes comandos en la terminal para instalar las dependencias ne
 
 ```
 choco install -y ffmpeg
-cmd
+choco install -y miktex
 ```
 
 #### Agregar ubicaciones al PATH
