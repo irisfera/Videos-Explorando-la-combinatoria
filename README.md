@@ -76,3 +76,50 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; 
 iex ((New-Object System.Net.WebClient).DownloadString
 ('https://chocolatey.org/install.ps1'))
+
+#### Instalar dependencias
+Ejecuta los siguientes comandos en la terminal para instalar las dependencias necesarias:
+
+```
+choco install -y ffmpeg
+cmd
+```
+
+#### Agregar ubicaciones al PATH
+Para agregar las ubicaciones de `ffmpeg` y `miktex` a la variable `PATH`, sigue estos pasos:
+
+1. En la ventana "Propiedades del Sistema", haz clic en el botón "Variables de entorno" en la pestaña "Opciones avanzadas".
+
+    ![Ventana de Propiedades del Sistema](Imagenes/propSistema.png)
+
+2. En la sección "Variables de sistema", busca la variable llamada `PATH` y selecciónala. Haz clic en "Editar".
+
+    ![Ventana de Variables del Sistema](Imagenes/variablesSis.png)
+
+3. En la ventana "Editar variable de sistema", haz clic en "Nueva" y agrega la ubicación de la carpeta de `ffmpeg`.
+
+    ![Agregando ubicación de ffmpeg](Imagenes/ffmpeg.png)
+
+4. En la ventana "Editar variable de sistema", haz clic en "Nueva" y agrega la ubicación de la carpeta de `miktex`.
+
+5. Guarda tus cambios y cierra todas las ventanas.
+
+6. Ejecuta los siguientes comandos en la terminal:
+
+```
+tlmgr --version
+tlmgr install standalone
+tlmgr install preview
+```
+
+7. Abre Jupyter Notebook y crea un nuevo archivo de Python en Jupyter Notebook.
+
+    ![Nuevo documento de Python en Jupyter Notebook](Imagenes/jupyterNuevoDoc.png)
+
+8. Ejecuta el siguiente comando en la terminal:
+
+```
+!pip install manim
+```
+
+    ![Instalar e importar manim](Imagenes/pipManim.png)
