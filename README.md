@@ -19,7 +19,7 @@ Este proyecto incluye cuatro archivos principales, cada uno correspondiente al c
 
 La estructura de los archivos es consistente para cada video:
 ```
-<VideoX-titulo>
+<Video-titulo>
 ├── <nombre-video>.ipynb
 ├── imagenes
 ├── utiles
