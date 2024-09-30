@@ -56,7 +56,7 @@ El código esta escrito en Jupyter para poder tener las escena de manera más mo
 * Dependencias de Latex para Manim
 * Un visor de videos como VLC o cualquier otro reproductor compatible con ```.mp4```
   
-## Instalacion de Manim para Jupyter con Conda
+## Instalacion de Manim para Jupyter con Conda en Windows
 
 ### Paso 1: Instalar Anaconda 3
 Para comenzar, debes instalar Anaconda 3, que es una distribución de Python. Puedes descargarlo desde el sitio web oficial de Anaconda: [Anaconda Install](https://docs.anaconda.com/free/anaconda/install/index.html).
