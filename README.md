@@ -31,7 +31,7 @@ La estructura de los archivos es consistente para cada video:
 ```
 * **```<nombre-video>.ipynb```**: contiene el código principal de las escenas utilizadas en el video, detallando cada parte de la animación.
 * **imagenes**: carpeta que almacena todas las imágenes en formato SVG utilizadas en las animaciones.
-* **utiles**: contiene funciones auxiliares que facilitan el desarrollo de las escenas y la animación..
+* **utiles**: contiene funciones auxiliares que facilitan el desarrollo de las escenas y la animación.
 * **media**: este directorio es automáticamente creado y contiene imágenes, videos y otros archivos generados por Manim y Jupyter.
   * **imagenes**: folder con imagenes generadas con Manim.
   * **jupyter**: contiene el caché de los videos generados desde el Jupyter Notebook.
