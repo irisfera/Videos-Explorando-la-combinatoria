@@ -36,7 +36,7 @@ La estructura de los archivos es consistente para cada video:
   * **imagenes**: folder con imagenes generadas con Manim.
   * **jupyter**: contiene el caché de los videos generados desde el Jupyter Notebook.
   * **Tex**: archivos necesarios para manejar objetos LaTeX dentro de las animaciones.
-  * **videos**: carpeta donde se almacenan los videos finales generados con Manim.
+  * **videos**: carpeta donde se almacenan los videos finales generados con Manim..
 
 ### Jupyter Notebook
 Cada archivo ```<nombre-video>.ipynb``` es un Jupyter Notebook que contiene todas las escenas que conforman un video, organizadas en distintas celdas. La primera celda incluye las importaciones y definiciones necesarias para ejecutar el resto del código. A continuación, cada celda contiene una clase de Python que representa una escena, con su método ```construct``` encargado de generar la animación. Al ejecutar cada una de estas celdas, se genera el video de la escena correspondiente, que se exporta automáticamente en formato MP4. 
