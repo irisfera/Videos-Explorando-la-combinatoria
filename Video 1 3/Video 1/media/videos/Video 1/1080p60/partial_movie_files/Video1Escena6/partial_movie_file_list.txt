@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/450974505_679153956_1095542028.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_263973121_868457436.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_1893003136_774429275.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_36644920_754089121.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_2351207999_1822512735.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_2639497267_1115402873.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_4104316466_3620958529.mp4'
-file 'file:C:/Users/super/Documents/Diana/Tesis/Videos simplificado/Video 1/Video 1/Video 1/media/videos/Video 1/1080p60/partial_movie_files/Video1Escena6/34786186_957343386_899637153.mp4'
