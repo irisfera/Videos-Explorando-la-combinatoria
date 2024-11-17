@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video1-PrincipioMultiplicacionYSuma/media/videos/Video1-PrincipioMultiplicacionYSuma/1080p60/partial_movie_files/Video1Escena2/450974505_1300746635_223132457.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video1-PrincipioMultiplicacionYSuma/media/videos/Video1-PrincipioMultiplicacionYSuma/1080p60/partial_movie_files/Video1Escena2/34786186_3913428279_596388713.mp4'
+file 'file:C:/Users/super/Documents/Diana/Tesis/CodigoVideos/Video1-PrincipioMultiplicacionYSuma/media/videos/Video1-PrincipioMultiplicacionYSuma/1080p60/partial_movie_files/Video1Escena2/34786186_2054223433_419822338.mp4'
