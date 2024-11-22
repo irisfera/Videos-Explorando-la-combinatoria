@@ -64,7 +64,7 @@ Para comenzar, debes instalar Anaconda 3, que es una distribución de Python. Pu
 ### Paso 2: Instalar Jupyter Notebook utilizando Anaconda
 Abre Anaconda 3 y haz clic en el botón de "Instalar" que se encuentra en el bloque de Jupyter Notebook.
 
-![UI de Anaconda 3 con Jupyter Notebook](Imagenes-readme/JupyterAnaconda.png)
+![UI de Anaconda 3 con Jupyter Notebook](Imagenes-archivo-readme/JupyterAnaconda.png)
 
 ### Paso 3: Instalar Manim
 
@@ -91,15 +91,15 @@ Para agregar las ubicaciones de `ffmpeg` y `miktex` a la variable `PATH`, sigue 
 
 1. En la ventana "Propiedades del Sistema", haz clic en el botón "Variables de entorno" en la pestaña "Opciones avanzadas".
 
-    ![Ventana de Propiedades del Sistema](Imagenes-readme/propSistema.png)
+    ![Ventana de Propiedades del Sistema](Imagenes-archivo-readme/propSistema.png)
 
 2. En la sección "Variables de sistema", busca la variable llamada `PATH` y selecciónala. Haz clic en "Editar".
 
-    ![Ventana de Variables del Sistema](Imagenes-readme/variablesSis.png)
+    ![Ventana de Variables del Sistema](Imagenes-archivo-readme/variablesSis.png)
 
 3. En la ventana "Editar variable de sistema", haz clic en "Nueva" y agrega la ubicación de la carpeta de `ffmpeg`.
 
-    ![Agregando ubicación de ffmpeg](Imagenes-readme/ffmpeg.png)
+    ![Agregando ubicación de ffmpeg](Imagenes-archivo-readme/ffmpeg.png)
 
 4. En la ventana "Editar variable de sistema", haz clic en "Nueva" y agrega la ubicación de la carpeta de `miktex`.
 
@@ -115,7 +115,7 @@ tlmgr install preview
 
 7. Abre Jupyter Notebook y crea un nuevo archivo de Python en Jupyter Notebook.
 
-    ![Nuevo documento de Python en Jupyter Notebook](Imagenes-readme/jupyterNuevoDoc.png)
+    ![Nuevo documento de Python en Jupyter Notebook](Imagenes-archivo-readme/jupyterNuevoDoc.png)
 
 8. Ejecuta el siguiente comando en la terminal:
 
